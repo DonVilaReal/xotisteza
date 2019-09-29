@@ -1,0 +1,2 @@
+# xotisteza
+Just for study
